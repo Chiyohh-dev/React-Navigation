@@ -4,8 +4,8 @@ A React Native application demonstrating stack navigation using React Navigation
 
 ## Student Information
 
-- **Name:** Tiffany Lyssa Palagaganas
-- **Student ID:** 202302164
+- **Name:** Jio Patrick Rufer Quion  
+- **Student ID:** 202305666
 - **Course:** Mobile Application Development
 - **Date:** December 02, 2025
 
