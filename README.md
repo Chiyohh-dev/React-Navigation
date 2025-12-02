@@ -79,11 +79,15 @@ npm run web
 
 ## Challenges Faced
 
-[Describe any challenges you encountered and how you resolved them]
+Android Studio API installed was API 34. I resolved this by downloading the API 35.
+Expo was constantly bugging, I double checked everything. I already installed all the components needed (npm install and such) and even tried redoing the whole process. AppEntry.js was unable to resolve the "../../App". 
+I resolved this by asking a classmate to send me their working package-lock.json file and after running the program, it finally installed the right SDK version.
 
 ## Learning Outcomes
 
-[Describe what you learned from this lab activity]
+I learned the basics of creating the interface of a mobile app. 
+Intalling the dependencies needed for the android studio and node package
+I also learned some few debuggings 
 
 ## References
 
